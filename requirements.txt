@@ -1,0 +1,8 @@
+pandas
+openpyxl
+reportlab
+python-docx
+jinja2
+google-generativeai
+gspread
+oauth2client
